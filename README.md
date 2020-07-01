@@ -11,4 +11,3 @@ Officially Supported Devices:
 Wanna Maintain Wrath?
 =============================
 You can apply for maintainership here by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdkODOFGkg25qaLBQEtNHdUr31fgdzWXdf5uGqy4bvt4hcEwg/viewform)
-Here are some rules [Rules](https://t.me/WrathOS)
